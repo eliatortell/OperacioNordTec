@@ -22,9 +22,14 @@ Pendent de dissenyar
 ## nivell 2
 ---
 # Pasos per a pujar un canvi a Github
-1. comando "git add ."
-2. comando "git commit -m "missatge" "
-3. comando "git push -u origin main"
+1. comanda "git add ."
+2. comanda "git commit -m "missatge" "
+3. comanda "git push -u origin main"
 ---
-## [Link]() comandos de hoy
+## [Link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax?utm_source=chatgpt.com#styling-text) comandos de hoy
 ---
+# Taula comandes
+| First Header  | 
+| ------------- |
+| Content Cell  |
+| Content Cell  |
