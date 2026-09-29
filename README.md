@@ -26,10 +26,12 @@ Pendent de dissenyar
 2. comanda "git commit -m "missatge" "
 3. comanda "git push -u origin main"
 ---
-## [Link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax?utm_source=chatgpt.com#styling-text) comandos de hoy
+## [Link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax?utm_source=chatgpt.com#styling-text) comandes d'avui
 ---
 # Taula comandes
-| First Header  | 
-| ------------- |
-| Content Cell  |
-| Content Cell  |
+| Comandes Git  | Funcions                       |
+| ------------- | ------------------------------ |
+| Git status    | Veure estat del fitxer         |
+| Git add       | Afegir el fitxer per pujar     |
+| Git commit    | Posar missatge per identificar |
+| Git push      | Pujar el fitxer a github       |
