@@ -35,3 +35,5 @@ Pendent de dissenyar
 | Git add       | Afegir el fitxer per pujar     |
 | Git commit    | Posar missatge per identificar |
 | Git push      | Pujar el fitxer a github       |
+| Git init      | Per a crear un respositori     |
+---
