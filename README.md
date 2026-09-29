@@ -25,3 +25,6 @@ Pendent de dissenyar
 1. comando "git add ."
 2. comando "git commit -m "missatge" "
 3. comando "git push -u origin main"
+---
+## [Link]() comandos de hoy
+---
