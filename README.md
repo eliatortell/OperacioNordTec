@@ -12,10 +12,24 @@
 - [Fase 1](https://educaciodigital.cat/iticbcn/moodle/mod/page/view.php?id=78299)
 ---
 ## Estat del projecte
-### Dissenyant
+| Tasques                | Estat de la tasca |
+| ---------------------- | ----------------- |
+| Títol                  | Tasca feta        |
+| Índex                  | Tasca feta        |
+| Estat del projecte     | Tasca feta        |
+| Arquitectura de xarxa  | Tasca feta        |
+| Configuracions         | Tasca pendent     |
+| Incidències i solucions| Tasca pendent     |
+| Missatge d'error       | Tasca pendent     |
+| Quan: fase i context   | Tasca pendent     |
+| Causa: per què passava | Tasca pendent     |
+| Solució: què vam fer   | Tasca pendent     |
+| Detectada per:         | Tasca pendent     |
+| Decisions tècniques    | Tasca pendent     |
+| Reflexions tècniques   | Tasca pendent     |
 --- 
 ## Arquitectura de xarxa
-![Imatge de l'arquitectura de xarxa.](img/arquitectura-xarxa.png))
+![Imatge de l'arquitectura de xarxa.](img/arquitectura-xarxa.png)
 ### Dia 1
 - Instal·lació de VisualStudio Code
 - Instal·lació de Git
