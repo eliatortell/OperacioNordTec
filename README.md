@@ -1,12 +1,19 @@
 # Operació NordTec
 ### Elia Tortell Arcos, 1 ASIX B
 ---
-## Índex
-??
-??
+## Índex:
+### Recursos
+[Guía de sintaxi Markdown](https://educaciodigital.cat/iticbcn/moodle/mod/url/view.php?id=77603)
+[hackmd.io (markdown)](https://educaciodigital.cat/iticbcn/moodle/mod/url/view.php?id=77603)
+[Activitat: Esquema README.md](https://educaciodigital.cat/iticbcn/moodle/mod/page/view.php?id=78294)
+[Validador YAML](https://educaciodigital.cat/iticbcn/moodle/mod/page/view.php?id=78294)
+### Activitats
+[Enunciat](https://educaciodigital.cat/iticbcn/moodle/mod/page/view.php?id=78294)
+[Fase 1](https://educaciodigital.cat/iticbcn/moodle/mod/page/view.php?id=78299)
 ---
 ## Estat del projecte
-Pendent de dissenyar 
+Dissenyant
+--- 
 ## Arquitectura de xarxa
 ![Imatge de l'arquitectura de xarxa.](C:\Users\eliat\OneDrive\Desktop\OperacioNordTec\img\arquitectura-xarxa.png)
 ### Dia 1
