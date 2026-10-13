@@ -18,26 +18,40 @@
 | Índex                  | Tasca feta        |
 | Estat del projecte     | Tasca feta        |
 | Arquitectura de xarxa  | Tasca feta        |
-| Configuracions         | Tasca pendent     |
-| Incidències i solucions| Tasca pendent     |
-| Missatge d'error       | Tasca pendent     |
-| Quan: fase i context   | Tasca pendent     |
-| Causa: per què passava | Tasca pendent     |
-| Solució: què vam fer   | Tasca pendent     |
-| Detectada per:         | Tasca pendent     |
+| Configuracions         | Tasca feta        |
+| Incidències i solucions| Tasca feta        |
+| Missatge d'error       | Tasca feta        |
+| Quan: fase i context   | Tasca feta        |
+| Causa: per què passava | Tasca feta        |
+| Solució: què vam fer   | Tasca feta        |
+| Detectada per:         | Tasca feta        |
 | Decisions tècniques    | Tasca pendent     |
 | Reflexions tècniques   | Tasca pendent     |
 --- 
 ## Arquitectura de xarxa
 ![Imatge de l'arquitectura de xarxa.](img/arquitectura-xarxa.png)
-### Dia 1
-- Instal·lació de VisualStudio Code
-- Instal·lació de Git
-- Creació de repositori del projecte
-- Creació de l'estructura de carpetes
-### Dia 2
-### Dia 3
 ---
+## Configuracions
+### Configuració de la app de VSCode:
+- Creació de la carpeta "OPERACIONORDTEC"
+- Creació del fitxer README.md
+- Creació de la subcarpeta "img"
+### Comprovació de la connexió entre VSCode i Github:
+- Creació del compte de github
+- Connexió entre les dues plataformes mitjançant comandes
+---
+## Incidències i solucions
+- **Missatge d'error:** Imatge de l'arquitectura de xarxa no trobada.
+- **Quan:** Mentre es feia l'apartat de "Arquitectura de xarxa" on es tenia que insertar una imatge.
+- **Causa:** La ruta del arxiu no estaba ben escrita.
+- **Solució:** Comprovar la ruta i canviar el error.
+- **Detectada per:** @eliatortell
+---
+## Decisions tècniques
+
+
+
+
 # **Elia**
 ## *nivell 2*
 ## nivell 2
