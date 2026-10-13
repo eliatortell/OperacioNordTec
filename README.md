@@ -1,14 +1,14 @@
 # Operació NordTec
-## Objectiu
-### Desplegar, protegir i monitorar la infraestructura d'una empresa mitjançant tecnologies actuals d'administració de sistemes
+### Elia Tortell Arcos, 1 ASIX B
+---
+## Índex
+??
+??
 ---
 ## Estat del projecte
-Iniciat
-En construcció
----
-## Arquitectura
 Pendent de dissenyar 
-## Diari del projecte
+## Arquitectura de xarxa
+![Imatge de l'arquitectura de xarxa.] (/OperacioNordTec/img/arquitectura-xarxa.png")
 ### Dia 1
 - Instal·lació de VisualStudio Code
 - Instal·lació de Git
