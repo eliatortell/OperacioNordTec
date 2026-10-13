@@ -8,7 +8,7 @@
 ## Estat del projecte
 Pendent de dissenyar 
 ## Arquitectura de xarxa
-![Imatge de l'arquitectura de xarxa.](/OperacioNordTec/img/arquitectura-xarxa.png")
+![Imatge de l'arquitectura de xarxa.](C:\Users\eliat\OneDrive\Desktop\OperacioNordTec\img\arquitectura-xarxa.png)
 ### Dia 1
 - Instal·lació de VisualStudio Code
 - Instal·lació de Git
