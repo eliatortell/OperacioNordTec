@@ -12,10 +12,10 @@
 - [Fase 1](https://educaciodigital.cat/iticbcn/moodle/mod/page/view.php?id=78299)
 ---
 ## Estat del projecte
-Dissenyant
+### Dissenyant
 --- 
 ## Arquitectura de xarxa
-![Imatge de l'arquitectura de xarxa.](C:\Users\eliat\OneDrive\Desktop\OperacioNordTec\img\arquitectura-xarxa.png)
+![Imatge de l'arquitectura de xarxa.](img/arquitectura-xarxa.png))
 ### Dia 1
 - Instal·lació de VisualStudio Code
 - Instal·lació de Git
