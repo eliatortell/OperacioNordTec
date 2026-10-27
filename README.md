@@ -53,3 +53,7 @@
 ## Reflexions tècniques
 - **Que hem après:** Durant la realització de l'Operació Nord Tec hem pogut posar en pràctica els coneixements sobre el llenguatge de marca "Markdown".
 
+
+---
+# Feina día 27/10/2026
+- Hem acabat de configurar els arxius .yaml del altre dia per a que la maquina "desk_lab" de  isard pugui fer ping amb "192.168.20.1" i "8.8.8.8"".
