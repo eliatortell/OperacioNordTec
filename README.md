@@ -57,3 +57,6 @@
 ---
 # Feina día 27/10/2026
 - Hem acabat de configurar els arxius .yaml del altre dia per a que la maquina "desk_lab" de  isard pugui fer ping amb "192.168.20.1" i "8.8.8.8"".
+
+# Feina dia 03/11/2026
+- Hem fet un Kahoot per a repasar tot el que hem fet a classe i després hem fet un petit examen per a veure amb que ens hem quedat durant totes aquestes classes.
